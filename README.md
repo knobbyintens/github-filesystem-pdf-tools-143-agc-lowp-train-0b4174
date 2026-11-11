@@ -1,2 +1,5 @@
-# github-filesystem-pdf-tools-143-agc-lowp-train-0b4174
-Code repository: Adaptive gradient clipping utilities for low-precision training.
+# agc-lowp-train
+
+Adaptive gradient clipping utilities for low-precision training.
+
+Library code is stable; a tagged public release is still pending.
